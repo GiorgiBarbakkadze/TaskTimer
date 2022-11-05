@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">TaskTimer</string>
+    <string name="menumain_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="menutitle_addTask">Add Task</string>
+    <string name="menutitle_showDurations">Show Durations</string>
+    <string name="menutitle_showAbout">About TaskTimer</string>
+    <string name="menutitle_generate">Generate Data</string>
+    <string name="no_task_message">No Task Selected</string>
+    <string name="edit_button_description">Button To Edit Task Details</string>
+    <string name="delete_button_description">Button To Delete A Task</string>
+    <string name="addedit_name">Name of the Task</string>
+    <string name="addedit_description">Description of the task</string>
+    <string name="addedit_sortorder">Sort order</string>
+    <string name="addedit_save">Save</string>
+    <string name="instructions_heading">instructions</string>
+    <string name="instructions">Use the add button (+) in the toolbar above to create new tasks.\n\nTasks with lower sort orders will be placed higher up the list. Tasks with the same sort order will be sorted alphabetically.\n\nTapping a task will start the timer for that task (and will stop the timer for any previous task that was being timed).\n\nEach task has Edit and Delete buttons if you want to change the details or remove the task.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="deldiag_positive_caption">Delete</string>
+    <string name="deldialog_message">Deleting will also delete all timing data associated with task id %1$d: %2$s.</string>
+    <string name="cancelEditDiag_message">You have unsaved changes. Do you want to abandon your changes, or continue editing?</string>
+    <string name="cancelEditDiag_positive_caption">Abandon changes</string>
+    <string name="cancelEditDiag_negtive_caption">Continue editing.</string>
+    <string name="about_copyright">Copyright © 2022 Giorgi Barbakadze</string>
+    <string name="about_weblink">Instructions available at www.somesite.ge</string>
+    <string name="about_email">For support, email barbakadze1990@gmail.com</string>
+    <string name="about_credits">Icon derived from <b>analog clock</b> at openclipart.opg by <b>Anonymous</b></string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="settings">Settings</string>
+    <string name="timing_message">Currently timing %1$s</string>
+    <string name="td_text_name">Task Name</string>
+    <string name="td_text_date">Date</string>
+    <string name="td_text_duration">Duration</string>
+    <string name="td_text_description">Description</string>
+    <string name="title_activity_durations_report">DurationsReport</string>
+    <string name="rm_title_filter_day">Show day</string>
+    <string name="rm_title_filter_week">Show week</string>
+    <string name="rm_title_filter_date">Set report date</string>
+    <string name="rm_title_delet">Delete old timings</string>
+    <string name="date_dialog_title">Select date for report</string>
+    <string name="date_title_delete">Select the date to delete up to</string>
+    <string name="delet_timings_message">Are you sure you want to delete all the timings before %1$s?</string>
+</resources>

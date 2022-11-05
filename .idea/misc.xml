@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/drawable/ic_baseline_filter_1_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout-land/task_durations.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/about.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/activity_durations_report.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/fragment_add_edit.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/fragment_add_edit2.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/fragment_first.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/settings_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/task_duration_items.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/task_durations.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/task_list_items.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/layout/washale.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/menu/menu_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/menu/menu_report.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TaskTimer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
