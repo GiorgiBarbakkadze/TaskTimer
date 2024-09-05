@@ -42,6 +42,7 @@ class AddEditFragment : Fragment() {
         Log.d(TAG, ".onCreateView: starts")
         // Inflate the layout for this fragment
         //fixed some bug
+        // a;slkfhasldgkas;dlgkhsa
 
         return inflater.inflate(R.layout.fragment_add_edit, container, false)
     }
